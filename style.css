@@ -1,0 +1,5 @@
+ul {
+	min-width: 50px;
+	min-height: 50px;
+	/* Bez tych deklaracji nie można przeciągnąć karteczki do pustej kolumny */
+}
